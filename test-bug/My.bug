@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:bug="http://www.example.org/bug">
+  <packages name="Component">
+    <elements name="Date" iconPath="./icons/date_task.png"/>
+    <elements name="DateLink" iconPath="./icons/date_relation.png"/>
+    <elements name="Box" iconPath="./icons/delicious.png"/>
+    <elements name="Dialog" iconPath="./icons/dialog.png"/>
+    <elements name="Gem" iconPath="./icons/diamond.png"/>
+  </packages>
+  <packages>
+    <elements name="View">
+      <children type="//@packages.0/@elements.0"/>
+      <children type="//@packages.0/@elements.1"/>
+      <children type="//@packages.0/@elements.2"/>
+      <children type="//@packages.0/@elements.3"/>
+      <children type="//@packages.0/@elements.4"/>
+    </elements>
+  </packages>
+</bug:Model>
