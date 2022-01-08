@@ -15,5 +15,649 @@
       <children type="//@packages.0/@elements.3"/>
       <children type="//@packages.0/@elements.4"/>
     </elements>
+    <elements name="Libused">
+      <children>
+        <type href="library.bug#//@packages.0/@elements.0"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.1"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.2"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.3"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.4"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.5"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.6"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.7"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.8"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.9"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.10"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.11"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.12"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.13"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.14"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.15"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.16"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.17"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.18"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.19"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.20"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.21"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.22"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.23"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.24"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.25"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.26"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.27"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.28"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.29"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.30"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.31"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.32"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.33"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.34"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.35"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.36"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.37"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.38"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.39"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.40"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.41"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.42"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.43"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.44"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.45"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.46"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.47"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.48"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.49"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.50"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.51"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.52"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.53"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.54"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.55"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.56"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.57"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.58"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.59"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.60"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.61"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.62"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.63"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.64"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.65"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.66"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.67"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.68"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.69"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.70"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.71"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.72"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.73"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.74"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.75"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.76"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.77"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.78"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.79"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.80"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.81"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.82"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.83"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.84"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.85"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.86"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.87"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.88"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.89"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.90"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.91"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.92"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.93"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.94"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.95"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.96"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.97"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.98"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.99"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.100"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.101"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.102"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.103"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.104"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.105"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.106"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.107"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.108"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.109"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.110"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.111"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.112"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.113"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.114"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.115"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.116"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.117"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.118"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.119"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.120"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.121"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.122"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.123"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.124"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.125"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.126"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.127"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.128"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.129"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.130"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.131"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.132"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.133"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.134"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.135"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.136"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.137"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.138"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.139"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.140"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.141"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.142"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.143"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.144"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.145"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.146"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.147"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.148"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.149"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.150"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.151"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.152"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.153"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.154"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.155"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.156"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.157"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.158"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.159"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.160"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.161"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.162"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.163"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.164"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.165"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.166"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.167"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.168"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.169"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.170"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.171"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.172"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.173"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.174"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.175"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.176"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.177"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.178"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.179"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.180"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.181"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.182"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.183"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.184"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.185"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.186"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.187"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.188"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.189"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.190"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.191"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.192"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.193"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.194"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.195"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.196"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.197"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.198"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.199"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.200"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.201"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.202"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.203"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.204"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.205"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.206"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.207"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.208"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.209"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.210"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.211"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.212"/>
+      </children>
+      <children>
+        <type href="library.bug#//@packages.0/@elements.213"/>
+      </children>
+    </elements>
   </packages>
 </bug:Model>
